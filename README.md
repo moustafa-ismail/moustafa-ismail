@@ -1,14 +1,6 @@
 <h3 align="center">Data Analyst</h3>
 
-- 🔭 I’m currently working on **Data analysis**
 
-- 🌱 I’m currently learning **keras**
-
-- 👯 I’m looking to collaborate on **python projects**
-
-- 🤝 I’m looking for help with **machine learning and data analysis**
-
-- 📫 How to reach me **moustafa.i.reda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
